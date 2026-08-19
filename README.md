@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/sarath8192"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://sarath-portfolio-green.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://www.linkedin.com/in/sarath-edupulapati-218885319/"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edupulapti.sarath@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/sarath8192"><img src="https://img.shields.io/badge/GitHub-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
@@ -215,7 +215,7 @@ Open To:
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edupulapti.sarath@gmail.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://www.linkedin.com/in/sarath-edupulapati-218885319/"><img src="https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/sarath8192"><img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/sarath8192"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://sarath-portfolio-green.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 </p>
 
 <br/>
@@ -227,4 +227,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B2FF7,100:6A0DAD&height=120&section=footer" width="100%"/>
 
 </div>
-
