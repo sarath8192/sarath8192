@@ -13,7 +13,7 @@
 
 <a href="https://github.com/sarath8192"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://www.linkedin.com/in/sarath-edupulapati-218885319/"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:edupulapti.sarath@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/sarath8192"><img src="https://img.shields.io/badge/GitHub-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
 <br/><br/>
@@ -81,6 +81,7 @@ A real-time bus tracking platform built for college transportation, allowing stu
 | **Security** | Role-based access for students, drivers, and admin |
 | **Impact** | Reduced student wait-time uncertainty on campus routes |
 | **Repository** | [View Repo](https://github.com/sarath8192) |
+| **Live Demo** | [CampusRide - College Bus Tracking System](https://college-bus-tracker-2lss.vercel.app/) |
 
 Built to solve the everyday problem of students not knowing when their bus would arrive. Implemented real-time location updates and an admin dashboard for route and fleet management.
 
@@ -187,18 +188,6 @@ Worked as a MERN Stack Developer, building and maintaining full-stack web applic
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🟣 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/sarath8192/sarath8192/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-> Note: the snake animation requires a one-time GitHub Actions workflow set up in your profile repo. Ask me and I'll walk you through it.
-
-<br/>
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 ## 🟣 Current Focus
 
 ```yaml
@@ -223,7 +212,7 @@ Open To:
 ## 🟣 Connect With Me
 
 <p align="center">
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:edupulapti.sarath@gmail.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://www.linkedin.com/in/sarath-edupulapati-218885319/"><img src="https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/sarath8192"><img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/sarath8192"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
